@@ -19,7 +19,7 @@ This project is a Python-based tool designed to analyze web server log files. It
 ## File Structure  
 - log_analysis.py: Main script for parsing and analyzing log files.  
 - sample.log: Sample log file for testing.  
-- log_analysis_results.csv: Example output file generated after running the script.(output file)  
+- log_analysis_results.csv: Example output file generated after running the script. (output file)
 
 ---
 
